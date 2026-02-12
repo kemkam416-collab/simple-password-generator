@@ -1,2 +1,14 @@
-# simple-password-generator
-A Python script to generate secure passwords with user customization.
+# Simple Password Generator 🛡️
+أداة بسيطة بلغة بايثون لتوليد كلمات مرور قوية بناءً على اختيارات المستخدم.
+
+## كيف يعمل؟
+1. يطلب منك الطول الكلي للباسورد.
+2. يطلب منك تحديد عدد (الحروف، الأرقام، الرموز).
+3. يتأكد من صحة مجموع الأعداد.
+4. يولد كلمة مرور عشوائية تماماً.
+
+## التقنيات المستخدمة:
+- Python 3
+- `random` module
+- `string` module
+- `while loops` and logic validation.
